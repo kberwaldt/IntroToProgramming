@@ -1,0 +1,34 @@
+/* This is a CSS comment.*/
+
+.MainBlog {
+  min-height: 800px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #424242
+}
+.title {
+  text-align: center;
+}
+.SubheaderDate {
+  font-style: italic;
+  color: #333;
+}
+.SubheaderTitle {
+  font-style: italic;
+  color: #3f3f3f;
+}
+.Content {
+  font-weight: 400;
+}
+
+img.Monkey {
+  max-height: 500px;
+  max-width: 750px;
+}
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
